@@ -1,0 +1,1 @@
+Analyzed the environmental impact of data centers by processing energy consumption and carbon emissions data, using Power BI to create interactive dashboards showcasing the correlation with climate change.
